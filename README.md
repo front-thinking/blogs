@@ -4,6 +4,6 @@
 
 
 #### 目录
-[vuejs和angularJS数据绑定的异同](https://github.com/front-thinking/blogs/issues/1)
-[算法之归并排序](https://github.com/front-thinking/blogs/issues/2)
-[算法之两个大正整数相乘Karatsuba算法](https://github.com/front-thinking/blogs/issues/3)
+1. [vuejs和angularJS数据绑定的异同](https://github.com/front-thinking/blogs/issues/1)
+2. [算法之归并排序](https://github.com/front-thinking/blogs/issues/2)
+3. [算法之两个大正整数相乘Karatsuba算法](https://github.com/front-thinking/blogs/issues/3)
