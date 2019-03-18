@@ -8,3 +8,5 @@
 2. [算法之归并排序](https://github.com/front-thinking/blogs/issues/2)
 3. [算法之两个大正整数相乘Karatsuba算法](https://github.com/front-thinking/blogs/issues/3)
 4. [算法之逆序对儿查找](https://github.com/front-thinking/blogs/issues/4)
+5. [算法之查找最近点](https://github.com/front-thinking/blogs/issues/5)
+6. [算法之峰值查找](https://github.com/front-thinking/blogs/issues/6)
