@@ -10,3 +10,4 @@
 4. [算法之逆序对儿查找](https://github.com/front-thinking/blogs/issues/4)
 5. [算法之查找最近点](https://github.com/front-thinking/blogs/issues/5)
 6. [算法之峰值查找](https://github.com/front-thinking/blogs/issues/6)
+7. [算法之快速排序](https://github.com/front-thinking/blogs/issues/7)
